@@ -1,0 +1,35 @@
+{
+    "furni_multiplier": "[Q] %sx [E] Nopeuskerroin  \n",
+    "furni_reset": "[H] Nollaa pyöritys  \n",
+    "furni_move": "[UP] [DOWN] [LEFT] [RIGHT] Liikuta  \n",
+    "furni_rotate": "[M1] [M2] Pyöritä (%s, %s, %s)  \n",
+    "furni_changerotate": "[TAB] Pyörityssuunta  \n",
+    "furni_height": "[SCROLL] Korkeus  \n",
+    "furni_bring": "[G] Tuo luokse  \n",
+    "furni_confirm": "[ENTER] Vahvista  \n",
+    "furni_cancel": "[BACKSPACE] Peruuta  \n",
+
+    "furni_menu_title": "Omat huonekalut",
+    "furni_target_move": "Siirrä",
+    "furni_target_delete": "Poista",
+    "furni_target_open": "Avaa",
+
+    "furni_bought": "Ostit!",
+
+    "furni_delete_header": "Huonekalun %s poistaminen",
+    "furni_delete_content": "Tahdotko varmasti poistaa huonekalun?",
+
+    "notify_nofurniture": "Et omista huonekaluja!",
+    "menu_place": "Paina asettaaksesi huonekalun",
+
+    "editmode_on": "Muokkaustila päällä",
+    "editmode_off": "Muokkaustila pois päältä",
+
+    "shop_keybind_desc": "Kauppa",
+    "shop_menu_title": "Kalusteet",
+
+    "main_menu_title": "Sisustus",
+    "main_menu_decorate": "Sisusta",
+    "main_menu_buy": "Buy",
+    "main_menu_edit": "Muokkaa"
+}

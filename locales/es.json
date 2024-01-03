@@ -1,0 +1,33 @@
+{
+    "furni_multiplier": "[Q] %sx [E] Multiplicador de velocidad  \n",
+    "furni_reset": "[H] Reiniciar rotación  \n",
+    "furni_move": "[ARRIBA] [ABAJO] [IZQUIERDA] [DERECHA] Mover  \n",
+    "furni_rotate": "[M1] [M2] Rotar (%s, %s, %s)  \n",
+    "furni_changerotate": "[TAB] Cambiar dirección de rotación  \n",
+    "furni_height": "[RUEDA] Altura  \n",
+    "furni_bring": "[G] Acercar  \n",
+    "furni_confirm": "[ENTER] Confirmar  \n",
+    "furni_cancel": "[BACKSPACE] Cancelar  \n",
+
+    "furni_menu_title": "Mis muebles",
+    "furni_target_move": "Mover",
+    "furni_target_delete": "Eliminar",
+    "furni_target_open": "Abrir",
+    
+    "furni_delete_header": "Eliminación de mueble %s",
+    "furni_delete_content": "¿Estás seguro de que quieres eliminar el mueble?",
+
+    "notify_nofurniture": "¡No tienes ningún mueble!",
+    "menu_place": "Presiona para colocar un mueble",
+
+    "editmode_on": "Modo de edición activado",
+    "editmode_off": "Modo de edición desactivado",
+
+    "shop_keybind_desc": "Tienda",
+    "shop_menu_title": "Muebles",
+
+    "main_menu_title": "Decoración",
+    "main_menu_decorate": "Decorar",
+    "main_menu_buy": "Comprar",
+    "main_menu_edit": "Editar"
+}

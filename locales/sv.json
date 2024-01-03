@@ -1,0 +1,33 @@
+{
+    "furni_multiplier": "[Q] %sx [E] Hastighetsmultiplikator  \n",
+    "furni_reset": "[H] Återställ rotation  \n",
+    "furni_move": "[UPP] [NER] [VÄNSTER] [HÖGER] Flytta  \n",
+    "furni_rotate": "[M1] [M2] Rotera (%s, %s, %s)  \n",
+    "furni_changerotate": "[TAB] Ändra rotationsriktning  \n",
+    "furni_height": "[SCROLL] Höjd  \n",
+    "furni_bring": "[G] Närma  \n",
+    "furni_confirm": "[ENTER] Bekräfta  \n",
+    "furni_cancel": "[BACKSPACE] Avbryt  \n",
+
+    "furni_menu_title": "Mina möbler",
+    "furni_target_move": "Flytta",
+    "furni_target_delete": "Radera",
+    "furni_target_open": "Öppna",
+
+    "furni_delete_header": "Radera möbel %s",
+    "furni_delete_content": "Är du säker på att du vill radera möbeln?",
+
+    "notify_nofurniture": "Du äger inga möbler!",
+    "menu_place": "Tryck för att placera möbler",
+
+    "editmode_on": "Redigeringsläge på",
+    "editmode_off": "Redigeringsläge av",
+
+    "shop_keybind_desc": "Butik",
+    "shop_menu_title": "Möbler",
+
+    "main_menu_title": "Inredning",
+    "main_menu_decorate": "Dekorera",
+    "main_menu_buy": "Köp",
+    "main_menu_edit": "Redigera"
+}
